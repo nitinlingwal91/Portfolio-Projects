@@ -1,0 +1,172 @@
+{
+  "document_type": "invoice",
+  "file_name": "sample_invoice.pdf",
+  "pages": 1,
+  "header_fields": {
+    "invoice_number": "XX001",
+    "invoice_date": null,
+    "due_date": null
+  },
+  "line_items": [
+    {
+      "": "",
+      "INVOICE": "INVOICE # XX001"
+    },
+    {
+      "": "",
+      "INVOICE": "DATE:"
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "For:",
+      "INVOICE": ""
+    },
+    {
+      "": "SAFVIC",
+      "INVOICE": ""
+    },
+    {
+      "": "Dates:",
+      "INVOICE": ""
+    },
+    {
+      "": "Location:",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "BE I",
+      "INVOICE": "N-KIND MATCH"
+    },
+    {
+      "": "D",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": "$50.00"
+    },
+    {
+      "": "",
+      "INVOICE": "$50.00"
+    },
+    {
+      "": "",
+      "INVOICE": "$200.00"
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": "$300.00"
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "nd to the ad",
+      "INVOICE": "dress at the top of"
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    },
+    {
+      "": "er to be rei",
+      "INVOICE": "mbursed for mile"
+    },
+    {
+      "": "",
+      "INVOICE": ""
+    }
+  ],
+  "totals": {
+    "total:": "$300.00",
+    "total": "If"
+  }
+}
